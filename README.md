@@ -1,1 +1,1 @@
-# nexigen-carbon-emissions-forecasting
+# nexygen-carbon-emissions-forecasting
