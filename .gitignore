@@ -3,5 +3,7 @@ venv/
 scope1_model.pkl
 scope2_model.pkl
 __pycache__
+docker-compose.yml
+dockerfile
 
 

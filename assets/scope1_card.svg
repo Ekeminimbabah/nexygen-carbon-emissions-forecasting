@@ -1,0 +1,24 @@
+<svg width="900" height="320" viewBox="0 0 900 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Scope 1 emissions illustration">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1f6f53"/>
+      <stop offset="100%" stop-color="#4aa98a"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="320" rx="16" fill="url(#g1)"/>
+  <g fill="#d5fff2" font-family="Segoe UI, Arial, sans-serif">
+    <text x="36" y="62" font-size="34" font-weight="700">Scope 1</text>
+    <text x="36" y="100" font-size="20">Direct fuel combustion and on-site operations</text>
+  </g>
+  <g stroke="#d5fff2" stroke-width="5" fill="none">
+    <path d="M42 250 L190 220 L320 210 L460 175 L610 160 L760 128 L854 112"/>
+  </g>
+  <g fill="#d5fff2">
+    <circle cx="190" cy="220" r="7"/>
+    <circle cx="320" cy="210" r="7"/>
+    <circle cx="460" cy="175" r="7"/>
+    <circle cx="610" cy="160" r="7"/>
+    <circle cx="760" cy="128" r="7"/>
+    <circle cx="854" cy="112" r="7"/>
+  </g>
+</svg>
